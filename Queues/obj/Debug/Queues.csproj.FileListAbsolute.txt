@@ -1,0 +1,14 @@
+C:\Users\drago\source\repos\Queues\Queues\bin\Debug\Queues.exe.config
+C:\Users\drago\source\repos\Queues\Queues\bin\Debug\Queues.exe
+C:\Users\drago\source\repos\Queues\Queues\bin\Debug\Queues.pdb
+C:\Users\drago\source\repos\Queues\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\Queues\Queues\obj\Debug\Queues.exe
+C:\Users\drago\source\repos\Queues\Queues\obj\Debug\Queues.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Queues\Queues\bin\Debug\Queues.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Queues\Queues\bin\Debug\Queues.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Queues\Queues\bin\Debug\Queues.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Queues\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Queues\Queues\obj\Debug\Queues.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Queues\Queues\obj\Debug\Queues.pdb
